@@ -38,6 +38,7 @@ Be the first person to take a selfie with a TRON banner on-site, post it to Twit
 3. Make sure to have fun at the event and share something you learned or a positive experience on Twitter and tag @TRONDAO!
 
 **NILE Testnet Tokens**
+
 Visit https://nileex.io/join/getJoinPage and enter your TRONLink Address in the first input box to receive 2000 TRX.
 Alternatively, follow @TronTest2 on Twitter, then Tweet your wallet address and tag the @TronTest2 account with "NILE" in the body for 10,000 TRX!
 
