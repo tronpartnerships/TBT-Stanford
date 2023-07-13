@@ -11,9 +11,9 @@ This repo contains all of the Engagement Bounties available to claim for the TRO
 
 Create a basic TRC20 token on the TRON test net based on the on-site workshop - 2 most creative wins!
 
-2. Most Creative TRC20 Token (2) - Workshop Bounty
+2. Token Airdrop 
 
-Create a basic TRC20 token on the TRON test net based on the on-site workshop - 2 most creative wins!
+Design and implement a smart contract on a TRON testnet that distributes a certain amount of tokens to a specified list of addresses or a random set of Tron network users.
 
 3. Documentation Improvement
 
