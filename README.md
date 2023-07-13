@@ -40,3 +40,11 @@ Winners will be decided by TRON DAO HackaTRON team after comment submission on e
 1. All submissions must be submitted as comments on each file's most recent commit.
 2. All participants MUST be on site to claim their prize - otherwise, we will select another winner!
 3. Make sure to have fun at the event and share something you learned or a positive experience on Twitter and tag @TRONDAO!
+
+**Submissions**
+
+To leave a comment, click on the center hyperlink on your selected Bounty to view the most recent Commit and leave a comment.
+
+GOOD LUCK!
+
+![image](https://github.com/tronpartnerships/TBT-NY-Engagement-Bounties/assets/115742536/ebcac66e-cf8c-457b-a2b3-15dc2f543a27)
