@@ -27,6 +27,10 @@ Create a brief document explaining how EVM and TVM are similar for developers to
 
 Recommend an improvement for the TRON blockchain or recommend integrating an existing technology.
 
-Bonus Bounty - Be the first person to take a selfie with a TRON banner on-site, post it to Twitter and tag @TRONDAO, and submit a screenshot to win some exclusive SWAG!
+**Bonus Bounty**
+
+Be the first person to take a selfie with a TRON banner on-site, post it to Twitter and tag @TRONDAO, and submit a screenshot to win some exclusive SWAG!
+
+**Winners**
 
 Winners will be decided by TRON DAO HackaTRON team after comment submission on this post. We will notify winners via GitHub.
