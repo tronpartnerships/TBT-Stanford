@@ -7,7 +7,7 @@ This repo contains all of the Engagement Bounties available to claim for the TRO
 
 **Purpose: Deploying a TRC20 token on TRON**
 
-1. Most Creative TRC20 Token - Workshop Bounty
+1. Most Creative TRC20 Token
 
 Create a basic TRC20 token on the TRON test net based on the on-site workshop - 2 most creative wins!
 
