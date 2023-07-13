@@ -29,8 +29,14 @@ Recommend an improvement for the TRON blockchain or recommend integrating an exi
 
 **Bonus Bounty**
 
-Be the first person to take a selfie with a TRON banner on-site, post it to Twitter and tag @TRONDAO, and submit a screenshot to win some exclusive SWAG!
+Be the first person to take a selfie with a TRON banner on-site, post it to Twitter, tag @TRONDAO, and submit a screenshot to win some exclusive SWAG!
 
 **Winners**
 
-Winners will be decided by TRON DAO HackaTRON team after comment submission on this post. We will notify winners via GitHub.
+Winners will be decided by TRON DAO HackaTRON team after comment submission on each post. We will notify winners via GitHub & in person.
+
+**Instructions**
+
+1. All submissions must be submitted as comments on each file's most recent commit.
+2. All participants MUST be on site to claim their prize - otherwise, we will select another winner!
+3. Make sure to have fun at the event and share something you learned or a positive experience on Twitter and tag @TRONDAO!
