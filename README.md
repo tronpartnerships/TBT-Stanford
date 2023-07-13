@@ -3,9 +3,9 @@ Engagement Bounties for TRON Builder Tour - NY
 
 This repo contains all of the Engagement Bounties available to claim for the TRON Builder Tour stop in New York!
 
-Workshop: 7pm - 8pm EST
+**Workshop: 7pm - 8pm EST**
 
-Purpose: Deploying a TRC20 token on TRON
+**Purpose: Deploying a TRC20 token on TRON**
 
 1. Most Creative TRC20 Token - Workshop Bounty
 
