@@ -52,4 +52,6 @@ Winners will be decided by the TRON DAO HackaTRON team after comment submission 
 
 GOOD LUCK!
 
+**Reference The Image Below For Where To Click To Leave A Comment**
+
 ![image](https://github.com/tronpartnerships/TBT-NY-Engagement-Bounties/assets/115742536/ebcac66e-cf8c-457b-a2b3-15dc2f543a27)
